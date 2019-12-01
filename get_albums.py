@@ -49,6 +49,6 @@ with open(dir_name + '/' + file_name,'r+') as file:
         line = line.rstrip()
         kw = line.split('-')
         if len(kw) >= 3:
-            pull_cover(kw[1] + kw[2], 500, i, dir_name)
+            pull_cover(kw[1] + kw[2], 64, i, dir_name)
         else:
             pass
