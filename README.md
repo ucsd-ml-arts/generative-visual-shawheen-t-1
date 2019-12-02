@@ -1,4 +1,4 @@
-# Project 4 Generative Visual
+# Project 3 Generative Visual
 
 Shawheen Tosifian, stosifia@ucsd.edu
 
