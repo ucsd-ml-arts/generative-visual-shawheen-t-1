@@ -11,7 +11,8 @@ The goal of this project was to create a DcGAN that would generate album artwork
 
 ## Model/Data
 
-- All the training data used in this project is in the 64x64 folder, sorted by decade (Xs), with image at 64x64. Folders containing (XXs) have higher resolution images (500x500) which were not used.
+- All the training data used in this project is in the 64x64 folder, sorted by decade (Xs), with image at 64x64. Folders containing (XXs) have higher resolution images (500x500) which were not used
+- resized
 
 
 ## Code
